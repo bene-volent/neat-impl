@@ -7,4 +7,4 @@
 ### Resources used
 * [p5JS](https://p5js.org/)
 * [Code Bullet](https://github.com/Code-Bullet)
-* [Tariq Rashid's Make your Own NN](http://amzn.to/2tcVeFS)
+
